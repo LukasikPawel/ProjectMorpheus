@@ -59,6 +59,6 @@ def print_results(assignment):
     print(" ------------------")
 
 
-while 1:
+while True:
     print_results(create_assignments())
     input("Press enter to generate again: ")
